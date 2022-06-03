@@ -1,5 +1,5 @@
 [package]
-name = "simple"
+name = "simple-nft"
 version = "0.1.0"
 authors = ["Willem Wyndham <willem@near.org>"]
 edition = "2018"
